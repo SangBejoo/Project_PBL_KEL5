@@ -1,0 +1,137 @@
+2024-05-26 10:51:22,882 DEBUG Creating converter from 3 to 5
+2024-05-26 10:53:02,530 DEBUG Creating converter from 3 to 5
+2024-05-26 10:56:23,950 DEBUG Creating converter from 3 to 5
+2024-05-26 10:56:28,179 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-26 10:56:28,180 INFO [33mPress CTRL+C to quit[0m
+2024-05-26 10:56:28,180 INFO  * Restarting with stat
+2024-05-26 10:56:32,846 DEBUG Creating converter from 3 to 5
+2024-05-26 10:56:35,345 WARNING  * Debugger is active!
+2024-05-26 10:56:35,351 INFO  * Debugger PIN: 190-339-155
+2024-05-26 10:57:08,113 INFO 127.0.0.1 - - [26/May/2024 10:57:08] "GET / HTTP/1.1" 200 -
+2024-05-26 10:57:08,211 INFO 127.0.0.1 - - [26/May/2024 10:57:08] "GET /socket.io/?EIO=4&transport=polling&t=O-p2uRj HTTP/1.1" 200 -
+2024-05-26 10:57:08,251 INFO 127.0.0.1 - - [26/May/2024 10:57:08] "POST /socket.io/?EIO=4&transport=polling&t=O-p2uSO&sid=iPOMRvAFwhN7w0eNAAAA HTTP/1.1" 200 -
+2024-05-26 10:57:08,255 INFO 127.0.0.1 - - [26/May/2024 10:57:08] "GET /socket.io/?EIO=4&transport=polling&t=O-p2uSP&sid=iPOMRvAFwhN7w0eNAAAA HTTP/1.1" 200 -
+2024-05-26 10:57:08,467 INFO 127.0.0.1 - - [26/May/2024 10:57:08] "GET /socket.io/?EIO=4&transport=polling&t=O-p2uVm&sid=iPOMRvAFwhN7w0eNAAAA HTTP/1.1" 200 -
+2024-05-26 10:57:08,762 INFO 127.0.0.1 - - [26/May/2024 10:57:08] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 10:57:08,816 INFO 127.0.0.1 - - [26/May/2024 10:57:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-26 10:57:14,395 INFO 127.0.0.1 - - [26/May/2024 10:57:14] "GET /socket.io/?EIO=4&transport=websocket&sid=iPOMRvAFwhN7w0eNAAAA HTTP/1.1" 200 -
+2024-05-26 10:57:14,405 INFO 127.0.0.1 - - [26/May/2024 10:57:14] "GET / HTTP/1.1" 200 -
+2024-05-26 10:57:14,434 INFO 127.0.0.1 - - [26/May/2024 10:57:14] "GET /socket.io/?EIO=4&transport=polling&t=O-p2vy_ HTTP/1.1" 200 -
+2024-05-26 10:57:14,482 INFO 127.0.0.1 - - [26/May/2024 10:57:14] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 10:57:14,489 INFO 127.0.0.1 - - [26/May/2024 10:57:14] "POST /socket.io/?EIO=4&transport=polling&t=O-p2vzs&sid=V1xFd2lngzuIlDDNAAAC HTTP/1.1" 200 -
+2024-05-26 10:57:14,493 INFO 127.0.0.1 - - [26/May/2024 10:57:14] "GET /socket.io/?EIO=4&transport=polling&t=O-p2vzs.0&sid=V1xFd2lngzuIlDDNAAAC HTTP/1.1" 200 -
+2024-05-26 10:57:14,507 INFO 127.0.0.1 - - [26/May/2024 10:57:14] "GET /socket.io/?EIO=4&transport=polling&t=O-p2v-7&sid=V1xFd2lngzuIlDDNAAAC HTTP/1.1" 200 -
+2024-05-26 10:59:42,782 DEBUG Creating converter from 3 to 5
+2024-05-26 10:59:46,800 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-26 10:59:46,800 INFO [33mPress CTRL+C to quit[0m
+2024-05-26 10:59:46,800 INFO  * Restarting with stat
+2024-05-26 10:59:51,836 DEBUG Creating converter from 3 to 5
+2024-05-26 10:59:54,546 WARNING  * Debugger is active!
+2024-05-26 10:59:54,552 INFO  * Debugger PIN: 190-339-155
+2024-05-26 10:59:55,044 INFO 127.0.0.1 - - [26/May/2024 10:59:55] "GET / HTTP/1.1" 200 -
+2024-05-26 10:59:55,105 INFO 127.0.0.1 - - [26/May/2024 10:59:55] "GET /socket.io/?EIO=4&transport=polling&t=O-p3XBR HTTP/1.1" 200 -
+2024-05-26 10:59:55,137 INFO 127.0.0.1 - - [26/May/2024 10:59:55] "POST /socket.io/?EIO=4&transport=polling&t=O-p3XBx&sid=qUhhqYtxBgoIeK_KAAAA HTTP/1.1" 200 -
+2024-05-26 10:59:55,140 INFO 127.0.0.1 - - [26/May/2024 10:59:55] "GET /socket.io/?EIO=4&transport=polling&t=O-p3XBy&sid=qUhhqYtxBgoIeK_KAAAA HTTP/1.1" 200 -
+2024-05-26 10:59:55,419 INFO 127.0.0.1 - - [26/May/2024 10:59:55] "GET /socket.io/?EIO=4&transport=polling&t=O-p3XGO&sid=qUhhqYtxBgoIeK_KAAAA HTTP/1.1" 200 -
+2024-05-26 10:59:55,556 INFO 127.0.0.1 - - [26/May/2024 10:59:55] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:12:58,035 DEBUG Creating converter from 3 to 5
+2024-05-26 11:13:00,741 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-26 11:13:00,742 INFO [33mPress CTRL+C to quit[0m
+2024-05-26 11:13:00,742 INFO  * Restarting with stat
+2024-05-26 11:13:05,621 DEBUG Creating converter from 3 to 5
+2024-05-26 11:13:08,304 WARNING  * Debugger is active!
+2024-05-26 11:13:08,311 INFO  * Debugger PIN: 190-339-155
+2024-05-26 11:13:08,797 INFO 127.0.0.1 - - [26/May/2024 11:13:08] "GET /socket.io/?EIO=4&transport=polling&t=O-p6WYU HTTP/1.1" 200 -
+2024-05-26 11:13:08,805 INFO 127.0.0.1 - - [26/May/2024 11:13:08] "GET / HTTP/1.1" 200 -
+2024-05-26 11:13:12,056 INFO 127.0.0.1 - - [26/May/2024 11:13:12] "[32mGET /streamlit HTTP/1.1[0m" 302 -
+2024-05-26 11:13:18,675 INFO 127.0.0.1 - - [26/May/2024 11:13:18] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:13:35,179 INFO 127.0.0.1 - - [26/May/2024 11:13:35] "[32mGET /streamlit HTTP/1.1[0m" 302 -
+2024-05-26 11:14:14,719 DEBUG Creating converter from 3 to 5
+2024-05-26 11:14:17,515 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-26 11:14:17,515 INFO [33mPress CTRL+C to quit[0m
+2024-05-26 11:14:17,515 INFO  * Restarting with stat
+2024-05-26 11:14:22,521 DEBUG Creating converter from 3 to 5
+2024-05-26 11:14:25,044 WARNING  * Debugger is active!
+2024-05-26 11:14:25,050 INFO  * Debugger PIN: 190-339-155
+2024-05-26 11:14:25,518 INFO 127.0.0.1 - - [26/May/2024 11:14:25] "GET / HTTP/1.1" 200 -
+2024-05-26 11:14:25,612 INFO 127.0.0.1 - - [26/May/2024 11:14:25] "GET /socket.io/?EIO=4&transport=polling&t=O-p6rj8 HTTP/1.1" 200 -
+2024-05-26 11:14:25,642 INFO 127.0.0.1 - - [26/May/2024 11:14:25] "POST /socket.io/?EIO=4&transport=polling&t=O-p6rjc&sid=ohvU_6SQ2s2xge8CAAAA HTTP/1.1" 200 -
+2024-05-26 11:14:25,646 INFO 127.0.0.1 - - [26/May/2024 11:14:25] "GET /socket.io/?EIO=4&transport=polling&t=O-p6rjd&sid=ohvU_6SQ2s2xge8CAAAA HTTP/1.1" 200 -
+2024-05-26 11:14:25,899 INFO 127.0.0.1 - - [26/May/2024 11:14:25] "GET /socket.io/?EIO=4&transport=polling&t=O-p6rne&sid=ohvU_6SQ2s2xge8CAAAA HTTP/1.1" 200 -
+2024-05-26 11:14:26,026 INFO 127.0.0.1 - - [26/May/2024 11:14:26] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:16:43,541 DEBUG Creating converter from 3 to 5
+2024-05-26 11:16:46,129 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-26 11:16:46,129 INFO [33mPress CTRL+C to quit[0m
+2024-05-26 11:16:46,130 INFO  * Restarting with stat
+2024-05-26 11:16:50,933 DEBUG Creating converter from 3 to 5
+2024-05-26 11:16:53,521 WARNING  * Debugger is active!
+2024-05-26 11:16:53,525 INFO  * Debugger PIN: 190-339-155
+2024-05-26 11:16:54,025 INFO 127.0.0.1 - - [26/May/2024 11:16:54] "GET /socket.io/?EIO=4&transport=polling&t=O-p7NzN HTTP/1.1" 200 -
+2024-05-26 11:16:54,045 INFO 127.0.0.1 - - [26/May/2024 11:16:54] "GET / HTTP/1.1" 200 -
+2024-05-26 11:16:54,110 INFO 127.0.0.1 - - [26/May/2024 11:16:54] "GET /socket.io/?EIO=4&transport=polling&t=O-p7PzP HTTP/1.1" 200 -
+2024-05-26 11:16:54,146 INFO 127.0.0.1 - - [26/May/2024 11:16:54] "POST /socket.io/?EIO=4&transport=polling&t=O-p7Pzz&sid=L3iLqG5de4bPn0eZAAAB HTTP/1.1" 200 -
+2024-05-26 11:16:54,149 INFO 127.0.0.1 - - [26/May/2024 11:16:54] "GET /socket.io/?EIO=4&transport=polling&t=O-p7Pz-&sid=L3iLqG5de4bPn0eZAAAB HTTP/1.1" 200 -
+2024-05-26 11:16:54,449 INFO 127.0.0.1 - - [26/May/2024 11:16:54] "GET /socket.io/?EIO=4&transport=polling&t=O-p7Q2k&sid=L3iLqG5de4bPn0eZAAAB HTTP/1.1" 200 -
+2024-05-26 11:16:54,569 INFO 127.0.0.1 - - [26/May/2024 11:16:54] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:16:56,930 INFO 127.0.0.1 - - [26/May/2024 11:16:56] "GET /socket.io/?EIO=4&transport=websocket&sid=L3iLqG5de4bPn0eZAAAB HTTP/1.1" 200 -
+2024-05-26 11:16:57,008 INFO 127.0.0.1 - - [26/May/2024 11:16:57] "[35m[1mGET /streamlit HTTP/1.1[0m" 500 -
+2024-05-26 11:16:57,427 INFO 127.0.0.1 - - [26/May/2024 11:16:57] "GET /streamlit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-05-26 11:16:57,428 INFO 127.0.0.1 - - [26/May/2024 11:16:57] "GET /streamlit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-05-26 11:16:57,481 INFO 127.0.0.1 - - [26/May/2024 11:16:57] "GET /streamlit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-05-26 11:16:57,528 INFO 127.0.0.1 - - [26/May/2024 11:16:57] "[36mGET /streamlit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-26 11:17:03,798 INFO 127.0.0.1 - - [26/May/2024 11:17:03] "GET /socket.io/?EIO=4&transport=polling&t=O-p7SKe HTTP/1.1" 200 -
+2024-05-26 11:17:03,834 INFO 127.0.0.1 - - [26/May/2024 11:17:03] "POST /socket.io/?EIO=4&transport=polling&t=O-p7SLK&sid=Mdy6jozL7uZBb9rfAAAD HTTP/1.1" 200 -
+2024-05-26 11:17:03,838 INFO 127.0.0.1 - - [26/May/2024 11:17:03] "GET /socket.io/?EIO=4&transport=polling&t=O-p7SLL&sid=Mdy6jozL7uZBb9rfAAAD HTTP/1.1" 200 -
+2024-05-26 11:17:03,853 INFO 127.0.0.1 - - [26/May/2024 11:17:03] "GET /socket.io/?EIO=4&transport=polling&t=O-p7SLf&sid=Mdy6jozL7uZBb9rfAAAD HTTP/1.1" 200 -
+2024-05-26 11:17:03,889 INFO 127.0.0.1 - - [26/May/2024 11:17:03] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:17:05,771 INFO 127.0.0.1 - - [26/May/2024 11:17:05] "GET /socket.io/?EIO=4&transport=websocket&sid=Mdy6jozL7uZBb9rfAAAD HTTP/1.1" 200 -
+2024-05-26 11:17:05,874 INFO 127.0.0.1 - - [26/May/2024 11:17:05] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:17:14,073 INFO 127.0.0.1 - - [26/May/2024 11:17:14] "[35m[1mGET /streamlit HTTP/1.1[0m" 500 -
+2024-05-26 11:17:14,100 INFO 127.0.0.1 - - [26/May/2024 11:17:14] "[36mGET /streamlit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-26 11:17:14,102 INFO 127.0.0.1 - - [26/May/2024 11:17:14] "[36mGET /streamlit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-26 11:17:14,109 INFO 127.0.0.1 - - [26/May/2024 11:17:14] "[36mGET /streamlit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-26 11:21:05,201 DEBUG Creating converter from 3 to 5
+2024-05-26 11:21:08,080 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-26 11:21:08,081 INFO [33mPress CTRL+C to quit[0m
+2024-05-26 11:21:08,082 INFO  * Restarting with stat
+2024-05-26 11:21:13,030 DEBUG Creating converter from 3 to 5
+2024-05-26 11:21:15,982 WARNING  * Debugger is active!
+2024-05-26 11:21:15,988 INFO  * Debugger PIN: 190-339-155
+2024-05-26 11:24:34,719 DEBUG Creating converter from 3 to 5
+2024-05-26 11:24:37,804 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-26 11:24:37,804 INFO [33mPress CTRL+C to quit[0m
+2024-05-26 11:24:37,805 INFO  * Restarting with stat
+2024-05-26 11:24:43,324 DEBUG Creating converter from 3 to 5
+2024-05-26 11:24:46,282 WARNING  * Debugger is active!
+2024-05-26 11:24:46,287 INFO  * Debugger PIN: 190-339-155
+2024-05-26 11:24:49,311 INFO 127.0.0.1 - - [26/May/2024 11:24:49] "GET / HTTP/1.1" 200 -
+2024-05-26 11:24:49,431 INFO 127.0.0.1 - - [26/May/2024 11:24:49] "GET /socket.io/?EIO=4&transport=polling&t=O-p9E0I HTTP/1.1" 200 -
+2024-05-26 11:24:49,470 INFO 127.0.0.1 - - [26/May/2024 11:24:49] "POST /socket.io/?EIO=4&transport=polling&t=O-p9E0v&sid=6Ndpq9mUfIO0_uUgAAAA HTTP/1.1" 200 -
+2024-05-26 11:24:49,473 INFO 127.0.0.1 - - [26/May/2024 11:24:49] "GET /socket.io/?EIO=4&transport=polling&t=O-p9E0w&sid=6Ndpq9mUfIO0_uUgAAAA HTTP/1.1" 200 -
+2024-05-26 11:24:49,741 INFO 127.0.0.1 - - [26/May/2024 11:24:49] "GET /socket.io/?EIO=4&transport=polling&t=O-p9E5A&sid=6Ndpq9mUfIO0_uUgAAAA HTTP/1.1" 200 -
+2024-05-26 11:24:49,934 INFO 127.0.0.1 - - [26/May/2024 11:24:49] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:24:51,576 INFO 127.0.0.1 - - [26/May/2024 11:24:51] "GET /socket.io/?EIO=4&transport=websocket&sid=6Ndpq9mUfIO0_uUgAAAA HTTP/1.1" 200 -
+2024-05-26 11:24:51,623 INFO 127.0.0.1 - - [26/May/2024 11:24:51] "[35m[1mGET /streamlit HTTP/1.1[0m" 500 -
+2024-05-26 11:24:52,036 INFO 127.0.0.1 - - [26/May/2024 11:24:52] "[36mGET /streamlit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-26 11:24:52,037 INFO 127.0.0.1 - - [26/May/2024 11:24:52] "[36mGET /streamlit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-26 11:24:52,079 INFO 127.0.0.1 - - [26/May/2024 11:24:52] "[36mGET /streamlit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-26 11:24:52,140 INFO 127.0.0.1 - - [26/May/2024 11:24:52] "[36mGET /streamlit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-26 11:25:00,326 INFO 127.0.0.1 - - [26/May/2024 11:25:00] "GET /socket.io/?EIO=4&transport=polling&t=O-p9GgU HTTP/1.1" 200 -
+2024-05-26 11:25:00,369 INFO 127.0.0.1 - - [26/May/2024 11:25:00] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:25:00,373 INFO 127.0.0.1 - - [26/May/2024 11:25:00] "POST /socket.io/?EIO=4&transport=polling&t=O-p9GhD&sid=byzz211XPBrq3ZwiAAAC HTTP/1.1" 200 -
+2024-05-26 11:25:00,377 INFO 127.0.0.1 - - [26/May/2024 11:25:00] "GET /socket.io/?EIO=4&transport=polling&t=O-p9GhE&sid=byzz211XPBrq3ZwiAAAC HTTP/1.1" 200 -
+2024-05-26 11:25:00,388 INFO 127.0.0.1 - - [26/May/2024 11:25:00] "GET /socket.io/?EIO=4&transport=polling&t=O-p9GhW&sid=byzz211XPBrq3ZwiAAAC HTTP/1.1" 200 -
+2024-05-26 11:25:25,653 INFO 127.0.0.1 - - [26/May/2024 11:25:25] "GET /socket.io/?EIO=4&transport=websocket&sid=byzz211XPBrq3ZwiAAAC HTTP/1.1" 200 -
+2024-05-26 11:25:25,681 INFO 127.0.0.1 - - [26/May/2024 11:25:25] "GET / HTTP/1.1" 200 -
+2024-05-26 11:25:25,706 INFO 127.0.0.1 - - [26/May/2024 11:25:25] "GET /socket.io/?EIO=4&transport=polling&t=O-p9Mt6 HTTP/1.1" 200 -
+2024-05-26 11:25:25,758 INFO 127.0.0.1 - - [26/May/2024 11:25:25] "POST /socket.io/?EIO=4&transport=polling&t=O-p9Mtw&sid=Dog_83xu84dGLfP7AAAE HTTP/1.1" 200 -
+2024-05-26 11:25:25,760 INFO 127.0.0.1 - - [26/May/2024 11:25:25] "GET /video_feed HTTP/1.1" 200 -
+2024-05-26 11:25:25,760 INFO 127.0.0.1 - - [26/May/2024 11:25:25] "GET /socket.io/?EIO=4&transport=polling&t=O-p9Mtw.0&sid=Dog_83xu84dGLfP7AAAE HTTP/1.1" 200 -
+2024-05-26 11:25:25,775 INFO 127.0.0.1 - - [26/May/2024 11:25:25] "GET /socket.io/?EIO=4&transport=polling&t=O-p9MuC&sid=Dog_83xu84dGLfP7AAAE HTTP/1.1" 200 -

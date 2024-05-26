@@ -1,0 +1,759 @@
+2024-05-22 09:40:29,251 DEBUG Creating converter from 3 to 5
+2024-05-22 09:40:39,368 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-22 09:40:39,368 INFO [33mPress CTRL+C to quit[0m
+2024-05-22 09:40:39,369 INFO  * Restarting with stat
+2024-05-22 09:40:49,058 DEBUG Creating converter from 3 to 5
+2024-05-22 09:40:55,821 WARNING  * Debugger is active!
+2024-05-22 09:40:55,832 INFO  * Debugger PIN: 161-522-901
+2024-05-22 09:40:56,852 INFO 127.0.0.1 - - [22/May/2024 09:40:56] "GET / HTTP/1.1" 200 -
+2024-05-22 09:40:57,254 INFO 127.0.0.1 - - [22/May/2024 09:40:57] "GET /socket.io/?EIO=4&transport=polling&t=O-UB5UT HTTP/1.1" 200 -
+2024-05-22 09:40:57,324 INFO 127.0.0.1 - - [22/May/2024 09:40:57] "POST /socket.io/?EIO=4&transport=polling&t=O-UB5VX&sid=BjqVPnLnwIN-3BBFAAAA HTTP/1.1" 200 -
+2024-05-22 09:40:57,333 INFO 127.0.0.1 - - [22/May/2024 09:40:57] "GET /socket.io/?EIO=4&transport=polling&t=O-UB5Va&sid=BjqVPnLnwIN-3BBFAAAA HTTP/1.1" 200 -
+2024-05-22 09:40:57,755 INFO 127.0.0.1 - - [22/May/2024 09:40:57] "GET /video_feed HTTP/1.1" 200 -
+2024-05-22 09:40:57,772 INFO 127.0.0.1 - - [22/May/2024 09:40:57] "GET /socket.io/?EIO=4&transport=polling&t=O-UB5cb&sid=BjqVPnLnwIN-3BBFAAAA HTTP/1.1" 200 -
+2024-05-22 09:40:58,040 INFO 127.0.0.1 - - [22/May/2024 09:40:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-22 09:41:06,913 DEBUG Detected not talking
+2024-05-22 09:41:06,913 DEBUG Clearing current word frames
+2024-05-22 09:41:07,045 DEBUG Detected not talking
+2024-05-22 09:41:07,046 DEBUG Clearing current word frames
+2024-05-22 09:41:07,197 DEBUG Detected not talking
+2024-05-22 09:41:07,198 DEBUG Clearing current word frames
+2024-05-22 09:41:07,351 DEBUG Detected not talking
+2024-05-22 09:41:07,352 DEBUG Clearing current word frames
+2024-05-22 09:41:07,479 DEBUG Detected not talking
+2024-05-22 09:41:07,479 DEBUG Clearing current word frames
+2024-05-22 09:41:07,625 DEBUG Detected not talking
+2024-05-22 09:41:07,625 DEBUG Clearing current word frames
+2024-05-22 09:41:07,746 DEBUG Detected not talking
+2024-05-22 09:41:07,746 DEBUG Clearing current word frames
+2024-05-22 09:41:07,880 DEBUG Detected not talking
+2024-05-22 09:41:07,882 DEBUG Clearing current word frames
+2024-05-22 09:41:08,154 DEBUG Detected not talking
+2024-05-22 09:41:08,154 DEBUG Clearing current word frames
+2024-05-22 09:41:08,273 DEBUG Detected not talking
+2024-05-22 09:41:08,273 DEBUG Clearing current word frames
+2024-05-22 09:41:08,383 DEBUG Detected not talking
+2024-05-22 09:41:08,384 DEBUG Clearing current word frames
+2024-05-22 09:41:08,497 DEBUG Detected not talking
+2024-05-22 09:41:08,497 DEBUG Clearing current word frames
+2024-05-22 09:41:08,623 DEBUG Detected not talking
+2024-05-22 09:41:08,624 DEBUG Clearing current word frames
+2024-05-22 09:41:08,761 DEBUG Detected not talking
+2024-05-22 09:41:08,761 DEBUG Clearing current word frames
+2024-05-22 09:41:08,866 DEBUG Detected not talking
+2024-05-22 09:41:08,866 DEBUG Clearing current word frames
+2024-05-22 09:41:09,134 DEBUG Detected not talking
+2024-05-22 09:41:09,135 DEBUG Clearing current word frames
+2024-05-22 09:41:09,245 DEBUG Detected not talking
+2024-05-22 09:41:09,245 DEBUG Clearing current word frames
+2024-05-22 09:41:09,361 DEBUG Detected not talking
+2024-05-22 09:41:09,361 DEBUG Clearing current word frames
+2024-05-22 09:41:09,487 DEBUG Detected not talking
+2024-05-22 09:41:09,487 DEBUG Clearing current word frames
+2024-05-22 09:41:09,635 DEBUG Detected not talking
+2024-05-22 09:41:09,635 DEBUG Clearing current word frames
+2024-05-22 09:41:09,932 DEBUG Detected not talking
+2024-05-22 09:41:09,934 DEBUG Clearing current word frames
+2024-05-22 09:41:10,068 DEBUG Detected not talking
+2024-05-22 09:41:10,069 DEBUG Clearing current word frames
+2024-05-22 09:41:10,212 DEBUG Detected not talking
+2024-05-22 09:41:10,213 DEBUG Clearing current word frames
+2024-05-22 09:41:10,330 DEBUG Detected not talking
+2024-05-22 09:41:10,330 DEBUG Clearing current word frames
+2024-05-22 09:41:10,479 DEBUG Detected not talking
+2024-05-22 09:41:10,479 DEBUG Clearing current word frames
+2024-05-22 09:41:10,588 DEBUG Detected not talking
+2024-05-22 09:41:10,589 DEBUG Clearing current word frames
+2024-05-22 09:41:10,729 DEBUG Detected not talking
+2024-05-22 09:41:10,730 DEBUG Clearing current word frames
+2024-05-22 09:41:10,867 DEBUG Detected not talking
+2024-05-22 09:41:10,868 DEBUG Clearing current word frames
+2024-05-22 09:41:10,993 DEBUG Detected not talking
+2024-05-22 09:41:10,993 DEBUG Clearing current word frames
+2024-05-22 09:41:11,120 DEBUG Detected not talking
+2024-05-22 09:41:11,121 DEBUG Clearing current word frames
+2024-05-22 09:41:11,244 DEBUG Detected not talking
+2024-05-22 09:41:11,245 DEBUG Clearing current word frames
+2024-05-22 09:41:11,498 DEBUG Detected not talking
+2024-05-22 09:41:11,498 DEBUG Clearing current word frames
+2024-05-22 09:41:11,630 DEBUG Detected not talking
+2024-05-22 09:41:11,631 DEBUG Clearing current word frames
+2024-05-22 09:41:11,771 DEBUG Detected not talking
+2024-05-22 09:41:11,773 DEBUG Clearing current word frames
+2024-05-22 09:41:11,908 DEBUG Detected not talking
+2024-05-22 09:41:11,909 DEBUG Clearing current word frames
+2024-05-22 09:41:12,037 DEBUG Detected not talking
+2024-05-22 09:41:12,038 DEBUG Clearing current word frames
+2024-05-22 09:41:12,177 DEBUG Detected not talking
+2024-05-22 09:41:12,177 DEBUG Clearing current word frames
+2024-05-22 09:41:12,309 DEBUG Detected not talking
+2024-05-22 09:41:12,310 DEBUG Clearing current word frames
+2024-05-22 09:41:12,435 DEBUG Detected not talking
+2024-05-22 09:41:12,436 DEBUG Clearing current word frames
+2024-05-22 09:41:12,689 DEBUG Detected not talking
+2024-05-22 09:41:12,690 DEBUG Clearing current word frames
+2024-05-22 09:41:12,808 DEBUG Detected not talking
+2024-05-22 09:41:12,809 DEBUG Clearing current word frames
+2024-05-22 09:41:12,952 DEBUG Detected not talking
+2024-05-22 09:41:12,953 DEBUG Clearing current word frames
+2024-05-22 09:41:13,359 DEBUG Detected not talking
+2024-05-22 09:41:13,360 DEBUG Clearing current word frames
+2024-05-22 09:41:13,480 DEBUG Detected not talking
+2024-05-22 09:41:13,480 DEBUG Clearing current word frames
+2024-05-22 09:41:13,602 DEBUG Detected not talking
+2024-05-22 09:41:13,602 DEBUG Clearing current word frames
+2024-05-22 09:41:13,719 DEBUG Detected not talking
+2024-05-22 09:41:13,720 DEBUG Clearing current word frames
+2024-05-22 09:41:13,849 DEBUG Detected not talking
+2024-05-22 09:41:13,849 DEBUG Clearing current word frames
+2024-05-22 09:41:13,967 DEBUG Detected not talking
+2024-05-22 09:41:13,967 DEBUG Clearing current word frames
+2024-05-22 09:41:14,108 DEBUG Detected not talking
+2024-05-22 09:41:14,109 DEBUG Clearing current word frames
+2024-05-22 09:41:19,816 DEBUG Detected not talking
+2024-05-22 09:41:19,817 DEBUG Clearing current word frames
+2024-05-22 09:41:19,955 DEBUG Detected not talking
+2024-05-22 09:41:19,956 DEBUG Clearing current word frames
+2024-05-22 09:41:20,315 DEBUG Detected not talking
+2024-05-22 09:41:20,316 DEBUG Clearing current word frames
+2024-05-22 09:41:20,436 DEBUG Detected not talking
+2024-05-22 09:41:20,436 DEBUG Clearing current word frames
+2024-05-22 09:41:20,709 DEBUG Detected not talking
+2024-05-22 09:41:20,710 DEBUG Clearing current word frames
+2024-05-22 09:41:20,821 DEBUG Detected not talking
+2024-05-22 09:41:20,822 DEBUG Clearing current word frames
+2024-05-22 09:41:20,938 DEBUG Detected not talking
+2024-05-22 09:41:20,938 DEBUG Clearing current word frames
+2024-05-22 09:41:21,385 DEBUG Detected not talking
+2024-05-22 09:41:21,386 DEBUG Clearing current word frames
+2024-05-22 09:41:21,527 DEBUG Detected not talking
+2024-05-22 09:41:21,527 DEBUG Clearing current word frames
+2024-05-22 09:41:21,655 DEBUG Detected not talking
+2024-05-22 09:41:21,655 DEBUG Clearing current word frames
+2024-05-22 09:41:22,068 DEBUG Detected not talking
+2024-05-22 09:41:22,068 DEBUG Clearing current word frames
+2024-05-22 09:41:22,208 DEBUG Detected not talking
+2024-05-22 09:41:22,208 DEBUG Clearing current word frames
+2024-05-22 09:41:22,338 DEBUG Detected not talking
+2024-05-22 09:41:22,339 DEBUG Clearing current word frames
+2024-05-22 09:41:22,484 DEBUG Detected not talking
+2024-05-22 09:41:22,485 DEBUG Clearing current word frames
+2024-05-22 09:41:22,492 DEBUG Detected not talking
+2024-05-22 09:41:22,493 DEBUG Clearing current word frames
+2024-05-22 09:41:22,812 DEBUG Detected not talking
+2024-05-22 09:41:22,812 DEBUG Clearing current word frames
+2024-05-22 09:41:22,820 DEBUG Detected not talking
+2024-05-22 09:41:22,820 DEBUG Clearing current word frames
+2024-05-22 09:41:33,768 DEBUG Detected not talking
+2024-05-22 09:41:33,768 DEBUG Clearing current word frames
+2024-05-22 09:41:33,877 DEBUG Detected not talking
+2024-05-22 09:41:33,877 DEBUG Clearing current word frames
+2024-05-22 09:41:34,757 DEBUG Detected not talking
+2024-05-22 09:41:34,757 DEBUG Clearing current word frames
+2024-05-22 09:41:35,072 DEBUG Detected not talking
+2024-05-22 09:41:35,072 DEBUG Clearing current word frames
+2024-05-22 09:41:35,335 DEBUG Detected not talking
+2024-05-22 09:41:35,335 DEBUG Clearing current word frames
+2024-05-22 09:41:35,462 DEBUG Detected not talking
+2024-05-22 09:41:35,462 DEBUG Clearing current word frames
+2024-05-22 09:41:35,469 DEBUG Detected not talking
+2024-05-22 09:41:35,470 DEBUG Clearing current word frames
+2024-05-22 09:41:35,865 DEBUG Detected not talking
+2024-05-22 09:41:35,867 DEBUG Clearing current word frames
+2024-05-22 09:41:36,112 DEBUG Detected not talking
+2024-05-22 09:41:36,113 DEBUG Clearing current word frames
+2024-05-22 09:41:37,311 DEBUG Detected not talking
+2024-05-22 09:41:37,311 DEBUG Clearing current word frames
+2024-05-22 09:41:37,448 DEBUG Detected not talking
+2024-05-22 09:41:37,448 DEBUG Clearing current word frames
+2024-05-22 09:41:37,608 DEBUG Detected not talking
+2024-05-22 09:41:37,609 DEBUG Clearing current word frames
+2024-05-22 09:41:37,730 DEBUG Detected not talking
+2024-05-22 09:41:37,731 DEBUG Clearing current word frames
+2024-05-22 09:41:37,855 DEBUG Detected not talking
+2024-05-22 09:41:37,855 DEBUG Clearing current word frames
+2024-05-22 09:41:38,101 DEBUG Detected not talking
+2024-05-22 09:41:38,103 DEBUG Clearing current word frames
+2024-05-22 09:41:38,225 DEBUG Detected not talking
+2024-05-22 09:41:38,225 DEBUG Clearing current word frames
+2024-05-22 09:41:38,599 DEBUG Detected not talking
+2024-05-22 09:41:38,600 DEBUG Clearing current word frames
+2024-05-22 09:41:38,741 DEBUG Detected not talking
+2024-05-22 09:41:38,742 DEBUG Clearing current word frames
+2024-05-22 09:41:38,881 DEBUG Detected not talking
+2024-05-22 09:41:38,881 DEBUG Clearing current word frames
+2024-05-22 09:41:39,015 DEBUG Detected not talking
+2024-05-22 09:41:39,016 DEBUG Clearing current word frames
+2024-05-22 09:41:39,275 DEBUG Detected not talking
+2024-05-22 09:41:39,275 DEBUG Clearing current word frames
+2024-05-22 09:41:39,422 DEBUG Detected not talking
+2024-05-22 09:41:39,423 DEBUG Clearing current word frames
+2024-05-22 09:41:39,558 DEBUG Detected not talking
+2024-05-22 09:41:39,558 DEBUG Clearing current word frames
+2024-05-22 09:41:39,705 DEBUG Detected not talking
+2024-05-22 09:41:39,706 DEBUG Clearing current word frames
+2024-05-22 09:41:39,862 DEBUG Detected not talking
+2024-05-22 09:41:39,864 DEBUG Clearing current word frames
+2024-05-22 09:41:39,966 DEBUG Detected not talking
+2024-05-22 09:41:39,967 DEBUG Clearing current word frames
+2024-05-22 09:41:40,085 DEBUG Detected not talking
+2024-05-22 09:41:40,085 DEBUG Clearing current word frames
+2024-05-22 09:41:40,211 DEBUG Detected not talking
+2024-05-22 09:41:40,211 DEBUG Clearing current word frames
+2024-05-22 09:41:40,351 DEBUG Detected not talking
+2024-05-22 09:41:40,352 DEBUG Clearing current word frames
+2024-05-22 09:41:40,738 DEBUG Detected not talking
+2024-05-22 09:41:40,738 DEBUG Clearing current word frames
+2024-05-22 09:41:40,860 DEBUG Detected not talking
+2024-05-22 09:41:40,861 DEBUG Clearing current word frames
+2024-05-22 09:41:41,154 DEBUG Detected not talking
+2024-05-22 09:41:41,155 DEBUG Clearing current word frames
+2024-05-22 09:41:41,276 DEBUG Detected not talking
+2024-05-22 09:41:41,277 DEBUG Clearing current word frames
+2024-05-22 09:41:41,433 DEBUG Detected not talking
+2024-05-22 09:41:41,433 DEBUG Clearing current word frames
+2024-05-22 09:41:41,563 DEBUG Detected not talking
+2024-05-22 09:41:41,563 DEBUG Clearing current word frames
+2024-05-22 09:41:41,668 DEBUG Detected not talking
+2024-05-22 09:41:41,669 DEBUG Clearing current word frames
+2024-05-22 09:41:41,784 DEBUG Detected not talking
+2024-05-22 09:41:41,784 DEBUG Clearing current word frames
+2024-05-22 09:41:41,943 DEBUG Detected not talking
+2024-05-22 09:41:41,943 DEBUG Clearing current word frames
+2024-05-22 09:41:42,104 DEBUG Detected not talking
+2024-05-22 09:41:42,107 DEBUG Clearing current word frames
+2024-05-22 09:41:42,236 DEBUG Detected not talking
+2024-05-22 09:41:42,237 DEBUG Clearing current word frames
+2024-05-22 09:41:42,389 DEBUG Detected not talking
+2024-05-22 09:41:42,390 DEBUG Clearing current word frames
+2024-05-22 09:41:42,515 DEBUG Detected not talking
+2024-05-22 09:41:42,516 DEBUG Clearing current word frames
+2024-05-22 09:41:42,794 DEBUG Detected not talking
+2024-05-22 09:41:42,795 DEBUG Clearing current word frames
+2024-05-22 09:41:42,906 DEBUG Detected not talking
+2024-05-22 09:41:42,906 DEBUG Clearing current word frames
+2024-05-22 09:41:43,028 DEBUG Detected not talking
+2024-05-22 09:41:43,029 DEBUG Clearing current word frames
+2024-05-22 09:41:43,152 DEBUG Detected not talking
+2024-05-22 09:41:43,153 DEBUG Clearing current word frames
+2024-05-22 09:41:43,293 DEBUG Detected not talking
+2024-05-22 09:41:43,293 DEBUG Clearing current word frames
+2024-05-22 09:41:43,446 DEBUG Detected not talking
+2024-05-22 09:41:43,446 DEBUG Clearing current word frames
+2024-05-22 09:41:43,602 DEBUG Detected not talking
+2024-05-22 09:41:43,603 DEBUG Clearing current word frames
+2024-05-22 09:41:43,723 DEBUG Detected not talking
+2024-05-22 09:41:43,724 DEBUG Clearing current word frames
+2024-05-22 09:41:43,874 DEBUG Detected not talking
+2024-05-22 09:41:43,874 DEBUG Clearing current word frames
+2024-05-22 09:41:44,011 DEBUG Detected not talking
+2024-05-22 09:41:44,012 DEBUG Clearing current word frames
+2024-05-22 09:41:44,174 DEBUG Detected not talking
+2024-05-22 09:41:44,174 DEBUG Clearing current word frames
+2024-05-22 09:41:44,439 DEBUG Detected not talking
+2024-05-22 09:41:44,439 DEBUG Clearing current word frames
+2024-05-22 09:41:44,559 DEBUG Detected not talking
+2024-05-22 09:41:44,559 DEBUG Clearing current word frames
+2024-05-22 09:41:44,699 DEBUG Detected not talking
+2024-05-22 09:41:44,700 DEBUG Clearing current word frames
+2024-05-22 09:41:44,847 DEBUG Detected not talking
+2024-05-22 09:41:44,848 DEBUG Clearing current word frames
+2024-05-22 09:41:44,961 DEBUG Detected not talking
+2024-05-22 09:41:44,961 DEBUG Clearing current word frames
+2024-05-22 09:41:45,083 DEBUG Detected not talking
+2024-05-22 09:41:45,084 DEBUG Clearing current word frames
+2024-05-22 09:41:45,216 DEBUG Detected not talking
+2024-05-22 09:41:45,217 DEBUG Clearing current word frames
+2024-05-22 09:41:45,341 DEBUG Detected not talking
+2024-05-22 09:41:45,341 DEBUG Clearing current word frames
+2024-05-22 09:41:45,474 DEBUG Detected not talking
+2024-05-22 09:41:45,474 DEBUG Clearing current word frames
+2024-05-22 09:41:46,259 DEBUG Detected not talking
+2024-05-22 09:41:46,259 DEBUG Clearing current word frames
+2024-05-22 09:41:46,405 DEBUG Detected not talking
+2024-05-22 09:41:46,406 DEBUG Clearing current word frames
+2024-05-22 09:41:46,683 DEBUG Detected not talking
+2024-05-22 09:41:46,684 DEBUG Clearing current word frames
+2024-05-22 09:41:47,150 DEBUG Detected not talking
+2024-05-22 09:41:47,153 DEBUG Clearing current word frames
+2024-05-22 09:41:47,299 DEBUG Detected not talking
+2024-05-22 09:41:47,299 DEBUG Clearing current word frames
+2024-05-22 09:41:47,427 DEBUG Detected not talking
+2024-05-22 09:41:47,428 DEBUG Clearing current word frames
+2024-05-22 09:41:47,638 DEBUG Detected not talking
+2024-05-22 09:41:47,638 DEBUG Clearing current word frames
+2024-05-22 09:41:47,774 DEBUG Detected not talking
+2024-05-22 09:41:47,775 DEBUG Clearing current word frames
+2024-05-22 09:41:49,222 DEBUG Detected not talking
+2024-05-22 09:41:49,223 DEBUG Clearing current word frames
+2024-05-22 09:41:49,348 DEBUG Detected not talking
+2024-05-22 09:41:49,348 DEBUG Clearing current word frames
+2024-05-22 09:41:49,468 DEBUG Detected not talking
+2024-05-22 09:41:49,469 DEBUG Clearing current word frames
+2024-05-22 09:41:49,576 DEBUG Detected not talking
+2024-05-22 09:41:49,576 DEBUG Clearing current word frames
+2024-05-22 09:41:49,735 DEBUG Detected not talking
+2024-05-22 09:41:49,736 DEBUG Clearing current word frames
+2024-05-22 09:41:49,993 DEBUG Detected not talking
+2024-05-22 09:41:49,993 DEBUG Clearing current word frames
+2024-05-22 09:41:50,141 DEBUG Detected not talking
+2024-05-22 09:41:50,143 DEBUG Clearing current word frames
+2024-05-22 09:41:51,198 DEBUG Detected not talking
+2024-05-22 09:41:51,198 DEBUG Clearing current word frames
+2024-05-22 09:42:01,316 DEBUG Detected not talking
+2024-05-22 09:42:01,317 DEBUG Clearing current word frames
+2024-05-22 09:42:01,469 DEBUG Detected not talking
+2024-05-22 09:42:01,469 DEBUG Clearing current word frames
+2024-05-22 09:42:01,574 DEBUG Detected not talking
+2024-05-22 09:42:01,575 DEBUG Clearing current word frames
+2024-05-22 09:42:01,683 DEBUG Detected not talking
+2024-05-22 09:42:01,684 DEBUG Clearing current word frames
+2024-05-22 09:42:01,806 DEBUG Detected not talking
+2024-05-22 09:42:01,808 DEBUG Clearing current word frames
+2024-05-22 09:42:05,337 DEBUG Detected not talking
+2024-05-22 09:42:05,338 DEBUG Clearing current word frames
+2024-05-22 09:42:06,214 DEBUG Detected talking
+2024-05-22 09:42:06,336 DEBUG Detected not talking
+2024-05-22 09:42:06,345 DEBUG Detected talking
+2024-05-22 09:42:06,483 DEBUG Detected not talking
+2024-05-22 09:42:06,492 DEBUG Detected talking
+2024-05-22 09:42:07,015 DEBUG Detected not talking
+2024-05-22 09:42:07,276 DEBUG Detected not talking
+2024-05-22 09:42:07,526 DEBUG Detected not talking
+2024-05-22 09:42:07,652 DEBUG Detected not talking
+2024-05-22 09:42:07,789 DEBUG Detected not talking
+2024-05-22 09:42:07,797 DEBUG Detected not talking
+2024-05-22 09:42:07,805 DEBUG Detected not talking
+2024-05-22 09:42:07,925 DEBUG Detected not talking
+2024-05-22 09:42:07,933 DEBUG Detected not talking
+2024-05-22 09:42:07,943 DEBUG Detected not talking
+2024-05-22 09:42:08,069 DEBUG Detected not talking
+2024-05-22 09:42:08,076 DEBUG Detected not talking
+2024-05-22 09:42:08,214 DEBUG Detected not talking
+2024-05-22 09:42:08,333 DEBUG Detected not talking
+2024-05-22 09:42:08,342 DEBUG Detected not talking
+2024-05-22 09:42:08,350 DEBUG Detected not talking
+2024-05-22 09:42:08,511 DEBUG Detected not talking
+2024-05-22 09:42:08,520 DEBUG Detected not talking
+2024-05-22 09:42:08,653 DEBUG Detected not talking
+2024-05-22 09:42:08,662 DEBUG Detected not talking
+2024-05-22 09:42:08,671 DEBUG Detected not talking
+2024-05-22 09:42:08,795 DEBUG Detected not talking
+2024-05-22 09:42:08,802 DEBUG Detected not talking
+2024-05-22 09:42:08,943 DEBUG Detected not talking
+2024-05-22 09:42:09,728 INFO Predicted word: here
+2024-05-22 09:42:09,864 DEBUG Detected not talking
+2024-05-22 09:42:09,864 DEBUG Clearing current word frames
+2024-05-22 09:42:10,386 DEBUG Detected not talking
+2024-05-22 09:42:10,386 DEBUG Clearing current word frames
+2024-05-22 09:42:11,321 DEBUG Detected not talking
+2024-05-22 09:42:11,322 DEBUG Clearing current word frames
+2024-05-22 09:42:12,200 DEBUG Detected not talking
+2024-05-22 09:42:12,201 DEBUG Clearing current word frames
+2024-05-22 09:42:12,444 DEBUG Detected not talking
+2024-05-22 09:42:12,444 DEBUG Clearing current word frames
+2024-05-22 09:42:12,551 DEBUG Detected not talking
+2024-05-22 09:42:12,552 DEBUG Clearing current word frames
+2024-05-22 09:42:12,691 DEBUG Detected not talking
+2024-05-22 09:42:12,692 DEBUG Clearing current word frames
+2024-05-22 09:42:14,928 DEBUG Detected not talking
+2024-05-22 09:42:14,929 DEBUG Clearing current word frames
+2024-05-22 09:42:15,064 DEBUG Detected not talking
+2024-05-22 09:42:15,064 DEBUG Clearing current word frames
+2024-05-22 09:42:15,331 DEBUG Detected not talking
+2024-05-22 09:42:15,332 DEBUG Clearing current word frames
+2024-05-22 09:42:15,467 DEBUG Detected not talking
+2024-05-22 09:42:15,469 DEBUG Clearing current word frames
+2024-05-22 09:42:15,890 DEBUG Detected not talking
+2024-05-22 09:42:15,890 DEBUG Clearing current word frames
+2024-05-22 09:42:16,015 DEBUG Detected not talking
+2024-05-22 09:42:16,015 DEBUG Clearing current word frames
+2024-05-22 09:42:16,144 DEBUG Detected not talking
+2024-05-22 09:42:16,144 DEBUG Clearing current word frames
+2024-05-22 09:42:16,250 DEBUG Detected not talking
+2024-05-22 09:42:16,251 DEBUG Clearing current word frames
+2024-05-22 09:42:16,385 DEBUG Detected not talking
+2024-05-22 09:42:16,387 DEBUG Clearing current word frames
+2024-05-22 09:42:17,491 DEBUG Detected not talking
+2024-05-22 09:42:17,492 DEBUG Clearing current word frames
+2024-05-22 09:42:17,629 DEBUG Detected not talking
+2024-05-22 09:42:17,630 DEBUG Clearing current word frames
+2024-05-22 09:42:17,770 DEBUG Detected not talking
+2024-05-22 09:42:17,771 DEBUG Clearing current word frames
+2024-05-22 09:42:17,991 DEBUG Detected not talking
+2024-05-22 09:42:17,991 DEBUG Clearing current word frames
+2024-05-22 09:42:18,270 DEBUG Detected not talking
+2024-05-22 09:42:18,270 DEBUG Clearing current word frames
+2024-05-22 09:42:18,280 DEBUG Detected not talking
+2024-05-22 09:42:18,280 DEBUG Clearing current word frames
+2024-05-22 09:42:18,407 DEBUG Detected not talking
+2024-05-22 09:42:18,408 DEBUG Clearing current word frames
+2024-05-22 09:42:18,416 DEBUG Detected not talking
+2024-05-22 09:42:18,419 DEBUG Clearing current word frames
+2024-05-22 09:42:18,427 DEBUG Detected not talking
+2024-05-22 09:42:18,428 DEBUG Clearing current word frames
+2024-05-22 09:42:18,563 DEBUG Detected not talking
+2024-05-22 09:42:18,563 DEBUG Clearing current word frames
+2024-05-22 09:42:18,571 DEBUG Detected not talking
+2024-05-22 09:42:18,571 DEBUG Clearing current word frames
+2024-05-22 09:42:18,579 DEBUG Detected not talking
+2024-05-22 09:42:18,580 DEBUG Clearing current word frames
+2024-05-22 09:42:18,719 DEBUG Detected not talking
+2024-05-22 09:42:18,720 DEBUG Clearing current word frames
+2024-05-22 09:42:18,728 DEBUG Detected not talking
+2024-05-22 09:42:18,728 DEBUG Clearing current word frames
+2024-05-22 09:42:18,839 DEBUG Detected not talking
+2024-05-22 09:42:18,840 DEBUG Clearing current word frames
+2024-05-22 09:42:18,979 DEBUG Detected not talking
+2024-05-22 09:42:18,979 DEBUG Clearing current word frames
+2024-05-22 09:42:19,120 DEBUG Detected not talking
+2024-05-22 09:42:19,121 DEBUG Clearing current word frames
+2024-05-22 09:42:19,129 DEBUG Detected not talking
+2024-05-22 09:42:19,130 DEBUG Clearing current word frames
+2024-05-22 09:42:19,139 DEBUG Detected not talking
+2024-05-22 09:42:19,139 DEBUG Clearing current word frames
+2024-05-22 09:42:19,275 DEBUG Detected not talking
+2024-05-22 09:42:19,276 DEBUG Clearing current word frames
+2024-05-22 09:42:19,285 DEBUG Detected not talking
+2024-05-22 09:42:19,285 DEBUG Clearing current word frames
+2024-05-22 09:42:19,293 DEBUG Detected not talking
+2024-05-22 09:42:19,294 DEBUG Clearing current word frames
+2024-05-22 09:42:19,411 DEBUG Detected not talking
+2024-05-22 09:42:19,411 DEBUG Clearing current word frames
+2024-05-22 09:42:19,419 DEBUG Detected not talking
+2024-05-22 09:42:19,419 DEBUG Clearing current word frames
+2024-05-22 09:42:19,429 DEBUG Detected not talking
+2024-05-22 09:42:19,430 DEBUG Clearing current word frames
+2024-05-22 09:42:19,438 DEBUG Detected not talking
+2024-05-22 09:42:19,438 DEBUG Clearing current word frames
+2024-05-22 09:42:19,709 DEBUG Detected not talking
+2024-05-22 09:42:19,710 DEBUG Clearing current word frames
+2024-05-22 09:42:19,719 DEBUG Detected not talking
+2024-05-22 09:42:19,720 DEBUG Clearing current word frames
+2024-05-22 09:42:19,865 DEBUG Detected not talking
+2024-05-22 09:42:19,866 DEBUG Clearing current word frames
+2024-05-22 09:42:19,875 DEBUG Detected not talking
+2024-05-22 09:42:19,876 DEBUG Clearing current word frames
+2024-05-22 09:42:19,884 DEBUG Detected not talking
+2024-05-22 09:42:19,885 DEBUG Clearing current word frames
+2024-05-22 09:42:20,021 DEBUG Detected not talking
+2024-05-22 09:42:20,022 DEBUG Clearing current word frames
+2024-05-22 09:42:20,029 DEBUG Detected not talking
+2024-05-22 09:42:20,030 DEBUG Clearing current word frames
+2024-05-22 09:42:20,037 DEBUG Detected not talking
+2024-05-22 09:42:20,038 DEBUG Clearing current word frames
+2024-05-22 09:42:20,176 DEBUG Detected not talking
+2024-05-22 09:42:20,177 DEBUG Clearing current word frames
+2024-05-22 09:42:20,184 DEBUG Detected not talking
+2024-05-22 09:42:20,184 DEBUG Clearing current word frames
+2024-05-22 09:42:20,193 DEBUG Detected not talking
+2024-05-22 09:42:20,193 DEBUG Clearing current word frames
+2024-05-22 09:42:20,466 DEBUG Detected not talking
+2024-05-22 09:42:20,467 DEBUG Clearing current word frames
+2024-05-22 09:42:20,624 DEBUG Detected not talking
+2024-05-22 09:42:20,625 DEBUG Clearing current word frames
+2024-05-22 09:42:21,141 DEBUG Detected not talking
+2024-05-22 09:42:21,142 DEBUG Clearing current word frames
+2024-05-22 09:42:21,257 DEBUG Detected not talking
+2024-05-22 09:42:21,258 DEBUG Clearing current word frames
+2024-05-22 09:42:21,368 DEBUG Detected not talking
+2024-05-22 09:42:21,369 DEBUG Clearing current word frames
+2024-05-22 09:42:21,533 DEBUG Detected not talking
+2024-05-22 09:42:21,534 DEBUG Clearing current word frames
+2024-05-22 09:42:22,680 DEBUG Detected not talking
+2024-05-22 09:42:22,680 DEBUG Clearing current word frames
+2024-05-22 09:42:22,819 DEBUG Detected not talking
+2024-05-22 09:42:22,820 DEBUG Clearing current word frames
+2024-05-22 09:42:22,956 DEBUG Detected not talking
+2024-05-22 09:42:22,957 DEBUG Clearing current word frames
+2024-05-22 09:42:23,096 DEBUG Detected not talking
+2024-05-22 09:42:23,096 DEBUG Clearing current word frames
+2024-05-22 09:42:23,222 DEBUG Detected not talking
+2024-05-22 09:42:23,222 DEBUG Clearing current word frames
+2024-05-22 09:42:23,594 DEBUG Detected not talking
+2024-05-22 09:42:23,595 DEBUG Clearing current word frames
+2024-05-22 09:42:23,752 DEBUG Detected not talking
+2024-05-22 09:42:23,752 DEBUG Clearing current word frames
+2024-05-22 09:42:23,867 DEBUG Detected not talking
+2024-05-22 09:42:23,869 DEBUG Clearing current word frames
+2024-05-22 09:42:24,008 DEBUG Detected not talking
+2024-05-22 09:42:24,009 DEBUG Clearing current word frames
+2024-05-22 09:42:24,018 DEBUG Detected not talking
+2024-05-22 09:42:24,018 DEBUG Clearing current word frames
+2024-05-22 09:42:24,263 DEBUG Detected not talking
+2024-05-22 09:42:24,263 DEBUG Clearing current word frames
+2024-05-22 09:42:24,404 DEBUG Detected not talking
+2024-05-22 09:42:24,405 DEBUG Clearing current word frames
+2024-05-22 09:42:24,412 DEBUG Detected not talking
+2024-05-22 09:42:24,413 DEBUG Clearing current word frames
+2024-05-22 09:42:24,888 DEBUG Detected not talking
+2024-05-22 09:42:24,888 DEBUG Clearing current word frames
+2024-05-22 09:42:25,003 DEBUG Detected not talking
+2024-05-22 09:42:25,004 DEBUG Clearing current word frames
+2024-05-22 09:42:25,136 DEBUG Detected not talking
+2024-05-22 09:42:25,137 DEBUG Clearing current word frames
+2024-05-22 09:42:25,399 DEBUG Detected not talking
+2024-05-22 09:42:25,399 DEBUG Clearing current word frames
+2024-05-22 09:42:25,555 DEBUG Detected not talking
+2024-05-22 09:42:25,555 DEBUG Clearing current word frames
+2024-05-22 09:42:25,707 DEBUG Detected not talking
+2024-05-22 09:42:25,707 DEBUG Clearing current word frames
+2024-05-22 09:42:25,855 DEBUG Detected not talking
+2024-05-22 09:42:25,855 DEBUG Clearing current word frames
+2024-05-22 09:42:26,102 DEBUG Detected not talking
+2024-05-22 09:42:26,103 DEBUG Clearing current word frames
+2024-05-22 09:42:26,226 DEBUG Detected not talking
+2024-05-22 09:42:26,227 DEBUG Clearing current word frames
+2024-05-22 09:42:26,611 DEBUG Detected not talking
+2024-05-22 09:42:26,612 DEBUG Clearing current word frames
+2024-05-22 09:42:26,742 DEBUG Detected not talking
+2024-05-22 09:42:26,742 DEBUG Clearing current word frames
+2024-05-22 09:42:28,829 DEBUG Detected talking
+2024-05-22 09:42:28,948 DEBUG Detected talking
+2024-05-22 09:42:29,087 DEBUG Detected talking
+2024-05-22 09:42:29,227 DEBUG Detected talking
+2024-05-22 09:42:29,353 DEBUG Detected talking
+2024-05-22 09:42:29,490 DEBUG Detected talking
+2024-05-22 09:42:29,612 DEBUG Detected talking
+2024-05-22 09:42:29,741 DEBUG Detected talking
+2024-05-22 09:42:29,849 DEBUG Detected talking
+2024-05-22 09:42:30,015 DEBUG Detected talking
+2024-05-22 09:42:30,147 DEBUG Detected talking
+2024-05-22 09:42:30,266 DEBUG Detected talking
+2024-05-22 09:42:30,407 DEBUG Detected talking
+2024-05-22 09:42:30,538 DEBUG Detected talking
+2024-05-22 09:42:30,685 DEBUG Detected not talking
+2024-05-22 09:42:30,805 DEBUG Detected talking
+2024-05-22 09:42:30,940 DEBUG Detected talking
+2024-05-22 09:42:31,061 DEBUG Detected not talking
+2024-05-22 09:42:31,167 DEBUG Detected not talking
+2024-05-22 09:42:31,430 DEBUG Detected not talking
+2024-05-22 09:42:31,585 DEBUG Detected not talking
+2024-05-22 09:42:31,694 DEBUG Detected not talking
+2024-05-22 09:42:31,832 DEBUG Detected not talking
+2024-05-22 09:42:31,971 DEBUG Detected not talking
+2024-05-22 09:42:32,104 DEBUG Detected talking
+2024-05-22 09:42:32,262 DEBUG Detected talking
+2024-05-22 09:42:32,417 DEBUG Detected talking
+2024-05-22 09:42:32,521 DEBUG Detected talking
+2024-05-22 09:42:32,646 DEBUG Detected talking
+2024-05-22 09:42:32,772 DEBUG Detected talking
+2024-05-22 09:42:32,924 DEBUG Detected talking
+2024-05-22 09:42:33,035 DEBUG Detected talking
+2024-05-22 09:42:33,181 DEBUG Detected talking
+2024-05-22 09:42:33,327 DEBUG Detected not talking
+2024-05-22 09:42:33,449 DEBUG Detected talking
+2024-05-22 09:42:33,577 DEBUG Detected talking
+2024-05-22 09:42:33,692 DEBUG Detected talking
+2024-05-22 09:42:33,831 DEBUG Detected not talking
+2024-05-22 09:42:33,975 DEBUG Detected talking
+2024-05-22 09:42:34,110 DEBUG Detected not talking
+2024-05-22 09:42:34,256 DEBUG Detected talking
+2024-05-22 09:42:34,405 DEBUG Detected talking
+2024-05-22 09:42:34,566 DEBUG Detected talking
+2024-05-22 09:42:34,668 DEBUG Detected talking
+2024-05-22 09:42:34,794 DEBUG Detected talking
+2024-05-22 09:42:34,918 DEBUG Detected talking
+2024-05-22 09:42:35,625 DEBUG Detected talking
+2024-05-22 09:42:35,753 DEBUG Detected talking
+2024-05-22 09:42:35,876 DEBUG Detected not talking
+2024-05-22 09:42:35,982 DEBUG Detected not talking
+2024-05-22 09:42:36,135 DEBUG Detected not talking
+2024-05-22 09:42:36,404 DEBUG Detected not talking
+2024-05-22 09:42:36,558 DEBUG Detected not talking
+2024-05-22 09:42:41,279 DEBUG Detected not talking
+2024-05-22 09:42:41,537 DEBUG Detected not talking
+2024-05-22 09:42:41,689 DEBUG Detected not talking
+2024-05-22 09:42:41,819 DEBUG Detected not talking
+2024-05-22 09:42:41,957 DEBUG Detected not talking
+2024-05-22 09:42:41,958 DEBUG Clearing current word frames
+2024-05-22 09:42:42,098 DEBUG Detected not talking
+2024-05-22 09:42:42,098 DEBUG Clearing current word frames
+2024-05-22 09:42:45,030 DEBUG Detected talking
+2024-05-22 09:42:45,300 DEBUG Detected not talking
+2024-05-22 09:42:45,431 DEBUG Detected not talking
+2024-05-22 09:42:45,573 DEBUG Detected not talking
+2024-05-22 09:42:45,990 DEBUG Detected not talking
+2024-05-22 09:42:46,246 DEBUG Detected not talking
+2024-05-22 09:42:46,391 DEBUG Detected not talking
+2024-05-22 09:42:46,541 DEBUG Detected not talking
+2024-05-22 09:42:46,684 DEBUG Detected not talking
+2024-05-22 09:42:46,813 DEBUG Detected not talking
+2024-05-22 09:42:47,032 DEBUG Detected not talking
+2024-05-22 09:42:47,294 DEBUG Detected not talking
+2024-05-22 09:42:47,429 DEBUG Detected not talking
+2024-05-22 09:42:47,568 DEBUG Detected not talking
+2024-05-22 09:42:47,695 DEBUG Detected not talking
+2024-05-22 09:42:48,000 DEBUG Detected not talking
+2024-05-22 09:42:48,151 DEBUG Detected talking
+2024-05-22 09:42:48,300 DEBUG Detected not talking
+2024-05-22 09:42:48,416 DEBUG Detected not talking
+2024-05-22 09:42:48,552 DEBUG Detected not talking
+2024-05-22 09:42:48,708 DEBUG Detected not talking
+2024-05-22 09:42:48,821 DEBUG Detected not talking
+2024-05-22 09:42:48,948 DEBUG Detected not talking
+2024-05-22 09:42:49,095 DEBUG Detected talking
+2024-05-22 09:42:49,229 DEBUG Detected not talking
+2024-05-22 09:42:49,345 DEBUG Detected not talking
+2024-05-22 09:42:49,508 DEBUG Detected not talking
+2024-05-22 09:42:49,619 DEBUG Detected talking
+2024-05-22 09:42:49,764 DEBUG Detected not talking
+2024-05-22 09:42:50,300 DEBUG Detected not talking
+2024-05-22 09:42:50,571 DEBUG Detected not talking
+2024-05-22 09:42:50,707 DEBUG Detected talking
+2024-05-22 09:42:50,826 DEBUG Detected not talking
+2024-05-22 09:42:50,989 DEBUG Detected not talking
+2024-05-22 09:42:51,238 DEBUG Detected not talking
+2024-05-22 09:42:53,009 DEBUG Detected not talking
+2024-05-22 09:42:53,150 DEBUG Detected not talking
+2024-05-22 09:42:53,284 DEBUG Detected not talking
+2024-05-22 09:42:54,555 DEBUG Detected not talking
+2024-05-22 09:42:54,683 DEBUG Detected not talking
+2024-05-22 09:42:55,046 DEBUG Detected talking
+2024-05-22 09:42:55,174 DEBUG Detected not talking
+2024-05-22 09:42:55,413 DEBUG Detected not talking
+2024-05-22 09:42:57,590 DEBUG Detected not talking
+2024-05-22 09:42:57,729 DEBUG Detected not talking
+2024-05-22 09:43:01,893 DEBUG Detected talking
+2024-05-22 09:43:02,034 DEBUG Detected talking
+2024-05-22 09:43:02,143 DEBUG Detected talking
+2024-05-22 09:43:02,242 DEBUG Detected talking
+2024-05-22 09:43:02,400 DEBUG Detected talking
+2024-05-22 09:43:02,520 DEBUG Detected talking
+2024-05-22 09:43:02,731 DEBUG Detected talking
+2024-05-22 09:43:02,856 DEBUG Detected talking
+2024-05-22 09:43:02,861 DEBUG Detected not talking
+2024-05-22 09:43:03,010 DEBUG Detected not talking
+2024-05-22 09:43:04,422 DEBUG Detected not talking
+2024-05-22 09:43:08,750 DEBUG Detected talking
+2024-05-22 09:43:08,882 DEBUG Detected talking
+2024-05-22 09:43:09,025 DEBUG Detected talking
+2024-05-22 09:43:09,163 DEBUG Detected talking
+2024-05-22 09:43:09,293 DEBUG Detected talking
+2024-05-22 09:43:09,411 DEBUG Detected talking
+2024-05-22 09:43:09,559 DEBUG Detected talking
+2024-05-22 09:43:09,679 DEBUG Detected talking
+2024-05-22 09:43:09,827 DEBUG Detected talking
+2024-05-22 09:43:09,961 DEBUG Detected talking
+2024-05-22 09:43:10,087 DEBUG Detected talking
+2024-05-22 09:43:10,221 DEBUG Detected talking
+2024-05-22 09:43:10,322 DEBUG Detected talking
+2024-05-22 09:43:10,473 DEBUG Detected talking
+2024-05-22 09:43:10,617 DEBUG Detected talking
+2024-05-22 09:43:10,721 DEBUG Detected talking
+2024-05-22 09:43:10,828 DEBUG Detected talking
+2024-05-22 09:43:10,968 DEBUG Detected talking
+2024-05-22 09:43:11,101 DEBUG Detected talking
+2024-05-22 09:43:11,222 DEBUG Detected talking
+2024-05-22 09:43:11,361 DEBUG Detected talking
+2024-05-22 09:43:14,755 DEBUG Detected not talking
+2024-05-22 09:43:14,879 DEBUG Detected not talking
+2024-05-22 09:43:15,019 DEBUG Detected not talking
+2024-05-22 09:43:15,148 DEBUG Detected not talking
+2024-05-22 09:43:15,291 DEBUG Detected not talking
+2024-05-22 09:43:15,419 DEBUG Detected not talking
+2024-05-22 09:43:18,215 DEBUG Detected not talking
+2024-05-22 09:43:18,328 DEBUG Detected not talking
+2024-05-22 09:43:18,481 DEBUG Detected not talking
+2024-05-22 09:43:18,599 DEBUG Detected not talking
+2024-05-22 09:43:18,599 DEBUG Clearing current word frames
+2024-05-22 09:43:18,732 DEBUG Detected not talking
+2024-05-22 09:43:18,732 DEBUG Clearing current word frames
+2024-05-22 09:43:18,893 DEBUG Detected not talking
+2024-05-22 09:43:18,894 DEBUG Clearing current word frames
+2024-05-22 09:43:19,034 DEBUG Detected not talking
+2024-05-22 09:43:19,034 DEBUG Clearing current word frames
+2024-05-22 09:43:19,174 DEBUG Detected not talking
+2024-05-22 09:43:19,175 DEBUG Clearing current word frames
+2024-05-22 09:43:19,301 DEBUG Detected talking
+2024-05-22 09:43:19,425 DEBUG Detected talking
+2024-05-22 09:43:19,549 DEBUG Detected talking
+2024-05-22 09:43:19,673 DEBUG Detected not talking
+2024-05-22 09:43:19,804 DEBUG Detected not talking
+2024-05-22 09:43:19,947 DEBUG Detected not talking
+2024-05-22 09:43:20,227 DEBUG Detected not talking
+2024-05-22 09:43:20,394 DEBUG Detected not talking
+2024-05-22 09:43:20,526 DEBUG Detected not talking
+2024-05-22 09:43:20,680 DEBUG Detected not talking
+2024-05-22 09:43:20,800 DEBUG Detected not talking
+2024-05-22 09:43:20,934 DEBUG Detected not talking
+2024-05-22 09:43:21,043 DEBUG Detected not talking
+2024-05-22 09:43:21,204 DEBUG Detected not talking
+2024-05-22 09:43:21,357 DEBUG Detected talking
+2024-05-22 09:43:21,474 DEBUG Detected talking
+2024-05-22 09:43:21,599 DEBUG Detected not talking
+2024-05-22 09:43:21,763 DEBUG Detected not talking
+2024-05-22 09:43:21,909 DEBUG Detected talking
+2024-05-22 09:43:22,047 DEBUG Detected not talking
+2024-05-22 09:43:22,332 DEBUG Detected talking
+2024-05-22 09:43:22,459 DEBUG Detected not talking
+2024-05-22 09:43:22,595 DEBUG Detected talking
+2024-05-22 09:43:22,758 DEBUG Detected talking
+2024-05-22 09:43:22,911 DEBUG Detected not talking
+2024-05-22 09:43:23,030 DEBUG Detected talking
+2024-05-22 09:43:23,163 DEBUG Detected talking
+2024-05-22 09:43:23,286 DEBUG Detected talking
+2024-05-22 09:43:23,404 DEBUG Detected not talking
+2024-05-22 09:43:23,515 DEBUG Detected not talking
+2024-05-22 09:43:23,669 DEBUG Detected talking
+2024-05-22 09:43:23,792 DEBUG Detected not talking
+2024-05-22 09:43:23,936 DEBUG Detected not talking
+2024-05-22 09:43:24,054 DEBUG Detected not talking
+2024-05-22 09:43:24,196 DEBUG Detected not talking
+2024-05-22 09:43:24,350 DEBUG Detected not talking
+2024-05-22 09:43:24,475 DEBUG Detected not talking
+2024-05-22 09:43:24,610 DEBUG Detected not talking
+2024-05-22 09:43:24,850 DEBUG Detected not talking
+2024-05-22 09:43:24,976 DEBUG Detected talking
+2024-05-22 09:43:25,130 DEBUG Detected talking
+2024-05-22 09:43:25,288 DEBUG Detected not talking
+2024-05-22 09:43:26,238 DEBUG Detected talking
+2024-05-22 09:43:26,349 DEBUG Detected talking
+2024-05-22 09:43:26,475 DEBUG Detected talking
+2024-05-22 09:43:26,623 DEBUG Detected talking
+2024-05-22 09:43:26,803 DEBUG Detected talking
+2024-05-22 09:43:26,962 DEBUG Detected talking
+2024-05-22 09:43:27,125 DEBUG Detected talking
+2024-05-22 09:43:27,247 DEBUG Detected talking
+2024-05-22 09:43:27,364 DEBUG Detected talking
+2024-05-22 09:43:27,481 DEBUG Detected talking
+2024-05-22 09:43:27,619 DEBUG Detected talking
+2024-05-22 09:43:27,758 DEBUG Detected talking
+2024-05-22 09:43:27,879 DEBUG Detected talking
+2024-05-22 09:43:28,003 DEBUG Detected talking
+2024-05-22 09:43:28,132 DEBUG Detected talking
+2024-05-22 09:43:28,246 DEBUG Detected talking
+2024-05-22 09:43:28,374 DEBUG Detected talking
+2024-05-22 09:43:28,515 DEBUG Detected talking
+2024-05-22 09:43:28,652 DEBUG Detected talking
+2024-05-22 09:43:28,802 DEBUG Detected talking
+2024-05-22 09:43:28,949 DEBUG Detected not talking
+2024-05-22 09:43:29,082 DEBUG Detected talking
+2024-05-22 09:43:29,199 DEBUG Detected talking
+2024-05-22 09:43:29,322 DEBUG Detected talking
+2024-05-22 09:43:29,453 DEBUG Detected talking
+2024-05-22 09:43:29,584 DEBUG Detected talking
+2024-05-22 09:43:29,686 DEBUG Detected talking
+2024-05-22 09:43:29,801 DEBUG Detected talking
+2024-05-22 09:43:29,922 DEBUG Detected talking
+2024-05-22 09:43:30,064 DEBUG Detected talking
+2024-05-22 09:43:30,207 DEBUG Detected not talking
+2024-05-22 09:43:30,384 DEBUG Detected not talking
+2024-05-22 09:43:30,766 DEBUG Detected not talking
+2024-05-22 09:43:30,914 DEBUG Detected not talking
+2024-05-22 09:43:31,024 DEBUG Detected not talking
+2024-05-22 09:43:31,179 DEBUG Detected talking
+2024-05-22 09:43:31,308 DEBUG Detected talking
+2024-05-22 09:43:31,442 DEBUG Detected talking
+2024-05-22 09:43:31,544 DEBUG Detected talking
+2024-05-22 09:43:31,701 DEBUG Detected talking
+2024-05-22 09:43:31,843 DEBUG Detected not talking
+2024-05-22 09:43:31,984 DEBUG Detected not talking
+2024-05-22 09:43:32,286 DEBUG Detected talking
+2024-05-22 09:43:32,394 DEBUG Detected not talking
+2024-05-22 09:43:32,671 DEBUG Detected not talking
+2024-05-22 09:43:37,751 DEBUG Detected not talking
+2024-05-22 09:43:37,869 DEBUG Detected not talking
+2024-05-22 09:43:45,490 DEBUG Detected not talking
+2024-05-22 09:44:07,403 DEBUG Detected not talking
